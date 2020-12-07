@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Danny Schlitt Personal Site
+email: ""
 description: >- # this means to ignore newlines until "baseurl:"
 A collection of things I find interesting and useful. Highlining, Traveling, Skiing, Programming
 baseurl: "" # the subpath of your site, e.g. /blog
