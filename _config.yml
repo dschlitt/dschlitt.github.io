@@ -21,7 +21,7 @@
 title: "Danny Schlitt Personal Site"
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-- A collection of things I find interesting and useful. Highlining, Traveling, Skiing, Programming
+        A collection of things I find interesting and useful. Highlining, Traveling, Skiing, Programming
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SchlittCodes
