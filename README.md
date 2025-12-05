@@ -1,1 +1,2 @@
-The blog of Danny Schlitt
+Uses Jekyll and Github Pages.
+See https://jekyllrb.com/docs/ for details

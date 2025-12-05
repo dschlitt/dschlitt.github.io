@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -21,11 +21,10 @@
 title: "Danny Schlitt Personal Site"
 email: ""
 description: >- # this means to ignore newlines until next element
-        A collection of things I find interesting and useful. Highlining, Traveling, Skiing, Programming
+      A space to share my stores in long form. Mostly about slacklining and traveling.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SchlittCodes
-github_username:  dschlitt
+instagram_username: schlitt_storm
 
 # Build settings
 theme: minima
