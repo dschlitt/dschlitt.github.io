@@ -18,19 +18,38 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Danny 'Banana' Schlitt Highline Blog"
+title: "Danny Schlitt Highline Blog"
 email: ""
 description: >- # this means to ignore newlines until next element
       A space to share my stores in long form. Mostly about slacklining and traveling.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dannyeschlitt.fun" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: schlitt_storm
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+teaser: /assets/images/sa-blind-teaser.jpg
+
 
 # Build settings:
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+minimal_mistakes_skin: "dark"
+# logo: "/assets/images/88x88.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

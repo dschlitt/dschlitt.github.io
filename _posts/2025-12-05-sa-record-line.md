@@ -1,13 +1,14 @@
 ---
-layout: post
-title:  "Mpuma’long’Line "
-date:   2025-12-05 00:00:00 -0800
+layout: single
+title: Mpuma’long’Line
+date: 2025-12-05
+header:
+  image: /assets/images/sa-blind-header.jpg
+  teaser: /assets/images/sa-blind-teaser.jpg
 categories: slackline record
 ---
 
 After the 500m Slanghoek highline, a 1.2km long, African record, highline in Waterval Boven was the main goal for our South African trip.
-
-<img src="/assets/sa-record-walking-blind.jpg" style="max-width:100%;height:auto;" alt="Danny walking the highline blindfolded"/>
 
 At our campsite for the project, Mountain Mayhem, we were pleasantly surprised to discover hot showers and a covered kitchen. These were welcome luxuries as we waited out a long weekend of rain, wind, and clouds. Most of my conversations with Cary, Audrey, and Leighton were about the feasibility of the project. The spot is known for daily thunderstorms and rain this time of year. During those rainy days we discussed rigging something smaller. Meanwhile the JoBurg crew seemed content to wait for the forecasted weather window and not worry too much about contingencies.
 
