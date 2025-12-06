@@ -27,11 +27,10 @@ During our time at Mountain Mayhem we ate well. Audrey, David, and Natalie are v
 
 In the end two reporters came out and the line got featured in a local Afrikaans newspaper as well as an Argentinian and Spanish newscasts.  I think they were excited to share the store of ‘adrenaline junkies’ from around the world collaborating on such a project.
 
-Here are some links to these publications.
+Checkout the reports here
 
-[https://www.netwerk24.com/nuus/aktueel/hoogtevrees-se-moses-waagduiwels-trotseer-tou-van-12-km-20251025-1078] (Hoogtevrees se moses! Waagduiwels trotseer tou van 1,2 km) This one is in Afrikaans and behind a paywall. If it's been translated to english, I'll share it.
+- [Hoogtevrees se moses! Waagduiwels trotseer tou van 1,2 km](https://www.netwerk24.com/nuus/aktueel/hoogtevrees-se-moses-waagduiwels-trotseer-tou-van-12-km-20251025-1078) This one is in Afrikaans and behind a paywall. If it's been translated to english, I'll share it.
 
-[https://www.lavanguardia.com/deportes/20251026/11197256/dos-highliners-sudafricanos-cruzan-cuerda-floja-waterval-boven-baten-record-continental.html](Dos highliners sudafricanos cruzan la cuerda floja de Waterval Boven y baten el récord continental) A friend from Spain saw this online and shared it with us. It's wild how a story can travel.
+- [Dos highliners sudafricanos cruzan la cuerda floja de Waterval Boven y baten el récord continental](https://www.lavanguardia.com/deportes/20251026/11197256/dos-highliners-sudafricanos-cruzan-cuerda-floja-waterval-boven-baten-record-continental.html) A friend from Spain saw this online and shared it with us. It's wild how a story can travel.
 
-If you want to read a proper record of the project, Laurence, a new friend from SA made [https://www.ridingthehighline.co.za/mpumalongline-an-african-highline-record/
-](a great post on his blog, riding the highline).
+If you want to read a proper record of the project, Laurence, a new friend from SA made [a great post on his blog](https://www.ridingthehighline.co.za/mpumalongline-an-african-highline-record/), Riding the Highline.
