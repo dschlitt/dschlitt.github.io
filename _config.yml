@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Danny Schlitt Highline Blog"
+title: "Danny Schlitt"
 email: ""
 description: >- # this means to ignore newlines until next element
       A space to share my stores in long form. Mostly about slacklining and traveling.
@@ -35,8 +35,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
 
 teaser: /assets/images/sa-blind-teaser.jpg
