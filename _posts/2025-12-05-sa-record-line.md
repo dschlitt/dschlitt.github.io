@@ -29,7 +29,7 @@ That was Tuesday and we had the line up until Saturday morning. Around 20 people
 
 If you want to read a proper record of the project, Laurence, a new friend from SA made [a great post on his blog](https://www.ridingthehighline.co.za/mpumalongline-an-african-highline-record/), Riding the Highline.
 
-## Invisible Winds
+## Blind and Buffeted
 
 Between resting my body after some strange pain in my hip flexors and letting others get their chance, I didn’t take a crossing until the third day the line was up. I made it about 750m blind folded before the wind knocked me off. That session built my confidence that a blindfold send might be possible.
 
