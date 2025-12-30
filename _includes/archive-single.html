@@ -1,5 +1,10 @@
-<!-- Based on: https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/archive-single.html
-      and https://web.chaehni.ch/web/blog-thumbnails/ -->
+<!--
+      Based on: https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/archive-single.html
+      and https://web.chaehni.ch/web/blog-thumbnails/
+      This overrides the default item in the recent posts list.
+      I added this so the teaser images are shown for the recent posts.
+-->
+
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
