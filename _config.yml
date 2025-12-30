@@ -39,9 +39,6 @@ defaults:
       share: false
       related: true
 
-teaser: /assets/images/sa-blind-teaser.jpg
-
-
 # Build settings:
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 plugins:
