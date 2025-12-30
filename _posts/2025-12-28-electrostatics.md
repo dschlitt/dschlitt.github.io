@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Electrostatic Discharge
+title: Electrostatic Highline Energy
 date: 2025-12-28
 header:
   overlay_image: /assets/images/electrostatics/emily-lurch-header.webp
