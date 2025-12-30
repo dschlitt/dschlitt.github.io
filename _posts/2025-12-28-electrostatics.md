@@ -5,7 +5,7 @@ date: 2025-12-28
 header:
   overlay_image: /assets/images/electrostatics/emily-lurch-header.webp
   teaser: /assets/images/electrostatics/electro-teaser.webp
-excerpt: "My experiences with electrostatics on highlines"
+excerpt: "Burnt webbing and a crazy hair day; my experiences with electrostatic effects on highlines"
 categories: slackline safety
 ---
 
