@@ -9,7 +9,7 @@ excerpt: "My experiences with electrostatics on highlines"
 categories: slackline safety
 ---
 
-Recently, the ISA published a warning about [electrostatic damage to highlines](https://www.slacklineinternational.org/2025/12/electrostatics-in-highlines/). This reminded me of two moments. One was silly and only maybe dangerous, the other almost led to a mainline failure.
+Recently, the ISA published a warning about [electrostatic damage to highlines](https://www.slacklineinternational.org/2025/12/electrostatics-in-highlines/). This reminded me of two moments in my slacklife. One was silly and probably no big deal, the other is the closest I've come to a mainline failure.
 
 ## The near miss
 
@@ -18,6 +18,8 @@ In 2020 I was organizing a segmented highline rig for the first time. The line w
 ### A ‘slight’ imperfection
 
 While sending the webbing out, two friends and I noticed a small bump in the main webbing as it was sliding through our hands. We noticed the tip of the bump was blackened like it was burnt. The burnt tip was pin head sized. As we kept looking we noticed another burn mark between the pillowed edges and the main body of the webbing. At the time we debated if they were burn marks and what could have caused them. We figured that 1 or 2 lengthwise strands were compromised which should be a 10% or 20% loss in strength at worst, no? We decided to put tape over the damaged areas to protect them and sent the webbing out. I wish I had taken photos of the damage at this stage.
+
+### A surprise after derig
 
 After sessioning the line for two days, we derigged. We were weekend warriors and it was time to head back to work. In the parking lot we took the tape off the damaged bits and noticed the pin head burn mark and burnt pillowed edges had grown into two major tears. Only about half of the webbing remained intact. Obviously we were freaked out.
 
