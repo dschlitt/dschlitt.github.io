@@ -4,8 +4,6 @@ figcaption {
   font-style: normal;
   display: block;
   text-align: center;
-}
-
-p {
-  background-color: red;
+  flex: auto;
+  margin-top: -1rem;
 }
